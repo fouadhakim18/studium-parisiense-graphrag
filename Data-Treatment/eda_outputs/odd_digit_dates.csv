@@ -1,0 +1,10 @@
+reference,name,link,path,type,start_year,end_year,start_len,end_len,start_out_of_bounds,end_out_of_bounds,interval_inverted
+53852,ASTORGIUS Glanderie,/individus/53852-astorgiusglanderie,ecclesiasticalCareer.secularPosition[].meta,INTERVAL,14487.0,1520.0,5.0,4.0,1,0,1
+16648,BRANDANUS I de Castiglione,/individus/16648-brandanusidecastiglione,professionalCareer.representation[].meta,INTERVAL,14111.0,1412.0,5.0,4.0,1,0,1
+50949,ARTHURUS de Bourbon,/individus/50949-arthurusdebourbon,ecclesiasticalCareer.secularPosition[].meta,INTERVAL,1465.0,14741.0,4.0,5.0,0,1,0
+576,AMELIUS de Brolio,/individus/576-ameliusdebrolio,ecclesiasticalCareer.secularPosition[].meta,INTERVAL,1394.0,395.0,4.0,3.0,0,1,1
+15674,ANTHONIUS Estournel,/individus/15674-anthoniusestournel,ecclesiasticalCareer.secularPosition[].meta,INTERVAL,1478.0,148.0,4.0,3.0,0,1,1
+8,ABSALON de Lund,/individus/8-absalondelund,travels.travels[].meta,INTERVAL,1158.0,11.0,4.0,2.0,0,1,1
+1533,BONAVENTURA de Bagnoregio,/individus/1533-bonaventuradebagnoregio,textualProduction.religion.opus[].dateAndPlace[].meta,INTERVAL,1253.0,54.0,4.0,2.0,0,1,1
+498,ALEXANDER de Abercrumby,/individus/498-alexanderdeabercrumby,relationalInsertion.studentProfessorRelationships[].meta,INTERVAL,344.0,1345.0,3.0,4.0,1,0,0
+725,ANDREAS de Hassia de Langensteyn,/individus/725-andreasdehassiadelangensteyn,professionalCareer.universityFunction[].meta,INTERVAL,185.0,1398.0,3.0,4.0,1,0,0

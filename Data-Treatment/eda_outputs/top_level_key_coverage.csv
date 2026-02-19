@@ -1,0 +1,22 @@
+key,count,coverage,types
+_id,2930,1.0,{'str': 2930}
+reference,2930,1.0,{'str': 2930}
+identity,2930,1.0,{'dict': 2930}
+extras,2930,1.0,{'dict': 2930}
+link,2930,1.0,{'str': 2930}
+title,2930,1.0,{'str': 2930}
+raw,2930,1.0,{'list': 2930}
+bibliography,2928,0.9993174061433447,{'dict': 2928}
+curriculum,2838,0.9686006825938567,{'dict': 2838}
+origin,1730,0.590443686006826,{'dict': 1730}
+ecclesiasticalCareer,1559,0.5320819112627987,{'dict': 1559}
+professionalCareer,981,0.3348122866894198,{'dict': 981}
+relationalInsertion,955,0.32593856655290104,{'dict': 955}
+textualProduction,244,0.08327645051194539,{'dict': 244}
+assets,153,0.052218430034129695,{'dict': 153}
+politicalCareer,150,0.051194539249146756,{'dict': 150}
+travels,132,0.04505119453924915,{'dict': 132}
+commissions,30,0.010238907849829351,{'dict': 30}
+distinctiveSign,12,0.004095563139931741,{'dict': 12}
+otherActivities,8,0.0027303754266211604,{'dict': 8}
+orality,4,0.0013651877133105802,{'dict': 4}
